@@ -1,7 +1,8 @@
 ## Hi! 👋 Im luxiopppp
-I like Math and Computer Science
+I'm currently studying Computer Science at Universidad de Buenos Aires 🇦🇷🇦🇷🇦🇷
+
 ### Proyects 🛠️
-Im currently developing a file sorter to clean up my pc :p
+Im currently developing a file sorter to clean up my pc
 <br>
 You can find it <a href="https://github.com/luxiopppp/file-sorter">here</a>
 ### Some technologies I'm learning 💻
