@@ -1,5 +1,5 @@
 ## Hi! 👋 Im luxiopppp
-I'm currently studying Computer Science at Universidad de Buenos Aires 🇦🇷🇦🇷🇦🇷
+I'm currently studying Computer Science at Universidad de Buenos Aires 💻
 
 ### Proyects 🛠️
 Im currently developing a file sorter to clean up my pc
