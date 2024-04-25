@@ -1,4 +1,4 @@
-## Hi! 👋 Im luxiopppp
+## Hi! 👋 I'm luxiopppp
 I'm currently studying Computer Science at Universidad de Buenos Aires 💻
 
 ### Proyects 🛠️
