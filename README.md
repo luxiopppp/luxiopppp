@@ -1,17 +1,30 @@
-## Hi! 👋 I'm luxiopppp
-I'm currently studying Computer Science at Universidad de Buenos Aires 💻
+<h1>Hello, I'm Lucio Schraier 👋</h1>
+<h2>Computer Science Student | Exploring Software Development</h2>
 
+### About Me
+- 20-year-old from Buenos Aires, Argentina 🇦🇷.
+- Always learning, mostly by breaking things first.
+- Self-taught, highly creative, and 90% powered by mate. 🧉
+- Trying to code my way out of tutorial hell.
 
+### 💻 Technologies
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  <!--![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)-->
 
+### 🌎 Where To Find Me
+<a href="https://www.linkedin.com/in/lucio-schraier/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucio%20Schraier-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:lucio.ese@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-lucio.ese%40gmail.com-blue?style=flat&logo=gmail"></a>
 
-
-<!--
-### Some technologies I'm learning 💻
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
--->
+<!--![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+![](https://komarev.com/ghpvc/?username=luxiopppp)-->
 
 <!--
 **luxiopppp/luxiopppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
